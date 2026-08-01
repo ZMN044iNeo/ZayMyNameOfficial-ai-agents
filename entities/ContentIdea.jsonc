@@ -1,0 +1,73 @@
+{
+  "properties": {
+    "contentType": {
+      "enum": [
+        "photo",
+        "video",
+        "reel",
+        "story",
+        "carousel",
+        "text",
+        "thread",
+        "livestream"
+      ],
+      "type": "string",
+      "description": "What type of content this idea is for"
+    },
+    "description": {
+      "type": "string",
+      "description": "Detailed description of the content idea"
+    },
+    "inspiration": {
+      "type": "string",
+      "description": "Source of inspiration or reference link"
+    },
+    "platform": {
+      "enum": [
+        "instagram",
+        "tiktok",
+        "twitter",
+        "facebook",
+        "youtube",
+        "linkedin",
+        "threads",
+        "all"
+      ],
+      "type": "string",
+      "description": "Which platform(s) this idea fits"
+    },
+    "priority": {
+      "enum": [
+        "low",
+        "medium",
+        "high"
+      ],
+      "type": "string",
+      "description": "Priority level"
+    },
+    "status": {
+      "enum": [
+        "new",
+        "in_progress",
+        "ready",
+        "used"
+      ],
+      "type": "string",
+      "description": "Current status of the idea"
+    },
+    "tags": {
+      "type": "string",
+      "description": "Tags or categories for this idea"
+    },
+    "title": {
+      "type": "string",
+      "description": "Short title for the content idea"
+    }
+  },
+  "required": [
+    "title",
+    "status"
+  ],
+  "type": "object",
+  "name": "ContentIdea"
+}
