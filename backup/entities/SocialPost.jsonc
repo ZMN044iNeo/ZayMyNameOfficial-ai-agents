@@ -1,0 +1,80 @@
+{
+  "properties": {
+    "account": {
+      "type": "string",
+      "description": "Social media account name"
+    },
+    "caption": {
+      "type": "string",
+      "description": "Post caption or text content"
+    },
+    "contentType": {
+      "enum": [
+        "photo",
+        "video",
+        "reel",
+        "story",
+        "carousel",
+        "text",
+        "thread"
+      ],
+      "type": "string",
+      "description": "Type of content"
+    },
+    "hashtags": {
+      "type": "string",
+      "description": "Hashtags for the post"
+    },
+    "link": {
+      "type": "string",
+      "description": "Link to the published post"
+    },
+    "mediaUrl": {
+      "type": "string",
+      "description": "URL to media (image/video)"
+    },
+    "platform": {
+      "enum": [
+        "instagram",
+        "tiktok",
+        "twitter",
+        "facebook",
+        "youtube",
+        "linkedin",
+        "threads"
+      ],
+      "type": "string",
+      "description": "Which platform the post is for"
+    },
+    "postedDate": {
+      "type": "string",
+      "description": "When the post was actually published"
+    },
+    "scheduledDate": {
+      "type": "string",
+      "description": "When the post is scheduled to go live"
+    },
+    "status": {
+      "enum": [
+        "idea",
+        "draft",
+        "scheduled",
+        "posted",
+        "archived"
+      ],
+      "type": "string",
+      "description": "Current status of the post"
+    },
+    "title": {
+      "type": "string",
+      "description": "Short title or label for the post"
+    }
+  },
+  "required": [
+    "title",
+    "platform",
+    "status"
+  ],
+  "type": "object",
+  "name": "SocialPost"
+}

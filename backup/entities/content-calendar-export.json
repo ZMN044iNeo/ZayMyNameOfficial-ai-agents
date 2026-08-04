@@ -1,0 +1,165 @@
+{
+  "count": 16,
+  "records": [
+    {
+      "id": "6a6e561aec3b847f487f8b10",
+      "date": "2026-08-03",
+      "title": "Inspirational quote post \u2014 journey reflection",
+      "contentType": "photo",
+      "platform": "instagram",
+      "account": "ZayMyNameOfficial",
+      "status": "planned",
+      "notes": "High-priority content idea. Clean text post with motivational quote. Good for saves and shares."
+    },
+    {
+      "id": "6a6e561aec3b847f487f8b11",
+      "date": "2026-08-05",
+      "title": "The Drop \u2014 live mix moment reel",
+      "contentType": "reel",
+      "platform": "instagram",
+      "account": "ZayMyNameOfficial",
+      "status": "planned",
+      "notes": "High-energy reel of beat dropping during live mix. Use actual audio from set."
+    },
+    {
+      "id": "6a6e561aec3b847f487f8b12",
+      "date": "2026-08-07",
+      "title": "Story reel \u2014 a moment that changed everything",
+      "contentType": "reel",
+      "platform": "instagram",
+      "account": "ZayMyNameOfficial",
+      "status": "planned",
+      "notes": "Spoken inspirational reel \u2014 talk to camera, raw and honest about creative journey."
+    },
+    {
+      "id": "6a6e561aec3b847f487f8b13",
+      "date": "2026-08-10",
+      "title": "Beat-making timelapse \u2014 start to finish",
+      "contentType": "video",
+      "platform": "instagram",
+      "account": "ZayMyNameOfficial",
+      "status": "planned",
+      "notes": "Timelapse building a beat from scratch. Before/after with final playthrough."
+    },
+    {
+      "id": "6a6e561aec3b847f487f8b14",
+      "date": "2026-08-12",
+      "title": "Behind the scenes \u2014 studio session",
+      "contentType": "reel",
+      "platform": "instagram",
+      "account": "ZayMyNameOfficial",
+      "status": "planned",
+      "notes": "Day-in-the-life style reel. Authentic, unfiltered, trending audio."
+    },
+    {
+      "id": "6a6e561aec3b847f487f8b15",
+      "date": "2026-08-14",
+      "title": "3D print timelapse \u2014 design to finished product",
+      "contentType": "video",
+      "platform": "instagram",
+      "account": "ZayMyNameOfficial",
+      "status": "planned",
+      "notes": "Timelapse of 3D print start to finish. Clean aesthetic, satisfying watch."
+    },
+    {
+      "id": "6a6e561aec3b847f487f8b16",
+      "date": "2026-08-17",
+      "title": "Live DJ set highlight reel",
+      "contentType": "reel",
+      "platform": "instagram",
+      "account": "ZayMyNameOfficial",
+      "status": "planned",
+      "notes": "30-60 second clip of live DJ set. Hook in first 2 seconds."
+    },
+    {
+      "id": "6a6e561aec3b847f487f8b17",
+      "date": "2026-08-19",
+      "title": "Hot take / opinion piece",
+      "contentType": "video",
+      "platform": "tiktok",
+      "account": "ZayMyNameOfficial",
+      "status": "planned",
+      "notes": "Bold statement or hot take. Text overlay, trending sound, strong hook."
+    },
+    {
+      "id": "6a6a81a268d490109ef6d205",
+      "date": "2026-08-03",
+      "title": "Motivation Post \u2014 Self-belief",
+      "contentType": "photo",
+      "platform": "instagram",
+      "account": "PharoahZAPHOfficial",
+      "status": "scheduled",
+      "notes": "Week 1 Monday motivation post"
+    },
+    {
+      "id": "6a6a81a268d490109ef6d206",
+      "date": "2026-08-06",
+      "title": "Live DJ set highlight reel",
+      "contentType": "reel",
+      "platform": "instagram",
+      "account": "PharoahZAPHOfficial",
+      "status": "planned",
+      "notes": "30-60s clip, trending audio, hook in first 2 seconds"
+    },
+    {
+      "id": "6a6a81a268d490109ef6d207",
+      "date": "2026-08-10",
+      "title": "Motivation Post \u2014 The grind",
+      "contentType": "photo",
+      "platform": "instagram",
+      "account": "PharoahZAPHOfficial",
+      "status": "scheduled",
+      "notes": "Week 2 Monday motivation post"
+    },
+    {
+      "id": "6a6a81a268d490109ef6d208",
+      "date": "2026-08-13",
+      "title": "3D print timelapse \u2014 design to finished product",
+      "contentType": "video",
+      "platform": "instagram",
+      "account": "PharoahZAPHOfficial",
+      "status": "planned",
+      "notes": "Timelapse with final product demo, trending audio"
+    },
+    {
+      "id": "6a6a81a268d490109ef6d209",
+      "date": "2026-08-17",
+      "title": "Motivation Post \u2014 Overcoming doubt",
+      "contentType": "photo",
+      "platform": "instagram",
+      "account": "PharoahZAPHOfficial",
+      "status": "scheduled",
+      "notes": "Week 3 Monday motivation post"
+    },
+    {
+      "id": "6a6a81a268d490109ef6d20a",
+      "date": "2026-08-20",
+      "title": "Behind the scenes \u2014 studio session",
+      "contentType": "reel",
+      "platform": "instagram",
+      "account": "PharoahZAPHOfficial",
+      "status": "planned",
+      "notes": "Day-in-the-life style, authentic, trending audio"
+    },
+    {
+      "id": "6a6a81a268d490109ef6d20b",
+      "date": "2026-08-24",
+      "title": "Motivation Post \u2014 Creative freedom",
+      "contentType": "photo",
+      "platform": "instagram",
+      "account": "PharoahZAPHOfficial",
+      "status": "scheduled",
+      "notes": "Week 4 Monday motivation post"
+    },
+    {
+      "id": "6a6a81a268d490109ef6d20c",
+      "date": "2026-08-27",
+      "title": "Beat-making timelapse \u2014 start to finish",
+      "contentType": "video",
+      "platform": "instagram",
+      "account": "PharoahZAPHOfficial",
+      "status": "planned",
+      "notes": "Screen recording timelapse, before/after, final playthrough"
+    }
+  ]
+}

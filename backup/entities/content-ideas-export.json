@@ -1,0 +1,137 @@
+{
+  "count": 12,
+  "records": [
+    {
+      "id": "6a69186c26b17cd3a78448ab",
+      "title": "The Drop \u2014 live mix moment reel",
+      "contentType": "reel",
+      "platform": "instagram",
+      "status": "new",
+      "priority": "high",
+      "tags": "dj, reel, live, performance, beat-drop",
+      "description": "High-energy reel capturing the moment the beat drops during a live mix. Start with 2 seconds of build-up tension (crowd reaction, hands on the mixer), then cut to the drop with the bass hitting. Quick cuts between wide shot of the decks and close-ups of your hands on the fader. Use the actual audio from the set \u2014 no trending sound needed when the mix speaks for itself. Caption: 'That moment when the beat drops and the crowd goes with it \ud83d\udd25 Track ID in comments. #djlife #djset #beatdrop #zaymynameofficial'",
+      "created_date": "2026-07-28T21:00:28"
+    },
+    {
+      "id": "6a691337126168e34f934a7f",
+      "title": "Live DJ set highlight reel",
+      "contentType": "reel",
+      "platform": "instagram",
+      "status": "new",
+      "priority": "high",
+      "tags": "dj, live, performance",
+      "description": "30-60 second clip of a live DJ set or practice session. Use trending audio or original mix. Hook in first 2 seconds \u2014 drop a quick teaser of the best moment. Caption with gig details or track IDs.",
+      "created_date": "2026-07-28T20:38:15"
+    },
+    {
+      "id": "6a691337126168e34f934a80",
+      "title": "Gear breakdown carousel",
+      "contentType": "carousel",
+      "platform": "instagram",
+      "status": "new",
+      "priority": "medium",
+      "tags": "dj, gear, setup",
+      "description": "Photo carousel showing the DJ setup \u2014 controller, mixer, laptop, lighting. Break down each piece of gear with what it does and why you use it. Great for saves and shares.",
+      "created_date": "2026-07-28T20:38:15"
+    },
+    {
+      "id": "6a691337126168e34f934a81",
+      "title": "Beat-making timelapse \u2014 start to finish",
+      "contentType": "video",
+      "platform": "instagram",
+      "status": "new",
+      "priority": "high",
+      "tags": "producing, beat-making, studio",
+      "description": "Screen recording + talking head of building a beat from scratch. Show the before/after \u2014 empty project to full arrangement. Timelapse style with a final playthrough at the end.",
+      "created_date": "2026-07-28T20:38:15"
+    },
+    {
+      "id": "6a691337126168e34f934a82",
+      "title": "5 production tips carousel",
+      "contentType": "carousel",
+      "platform": "instagram",
+      "status": "new",
+      "priority": "medium",
+      "tags": "producing, tips, educational",
+      "description": "5-slide carousel with practical production tips \u2014 sound selection, mixing, arrangement, etc. Each slide = one tip with a short explanation. High-save format.",
+      "created_date": "2026-07-28T20:38:15"
+    },
+    {
+      "id": "6a691337126168e34f934a83",
+      "title": "3D print timelapse \u2014 design to finished product",
+      "contentType": "video",
+      "platform": "instagram",
+      "status": "new",
+      "priority": "high",
+      "tags": "3d-printing, timelapse, process",
+      "description": "Timelapse of a 3D print from start to finish. Clean aesthetic, satisfying watch. Show the final product at the end with a quick demo of it in use. Use trending audio.",
+      "created_date": "2026-07-28T20:38:15"
+    },
+    {
+      "id": "6a691337126168e34f934a84",
+      "title": "3D printing 'thing of the week' showcase",
+      "contentType": "reel",
+      "platform": "instagram",
+      "status": "new",
+      "priority": "medium",
+      "tags": "3d-printing, showcase, reveal",
+      "description": "Showcase a cool or unusual 3D print. Quick hook \u2014 'I printed something nobody asked for' or 'Wait for it' energy. Final reveal with product demo.",
+      "created_date": "2026-07-28T20:38:15"
+    },
+    {
+      "id": "6a691337126168e34f934a85",
+      "title": "Inspirational quote post \u2014 journey reflection",
+      "contentType": "photo",
+      "platform": "instagram",
+      "status": "new",
+      "priority": "high",
+      "tags": "inspirational, mindset, journey",
+      "description": "Clean text post with a motivational quote or personal reflection tied to your journey \u2014 music, creating, persistence. Simple, bold design. Good for saves and shares.",
+      "created_date": "2026-07-28T20:38:15"
+    },
+    {
+      "id": "6a691337126168e34f934a86",
+      "title": "Story reel \u2014 a moment that changed everything",
+      "contentType": "reel",
+      "platform": "instagram",
+      "status": "new",
+      "priority": "high",
+      "tags": "inspirational, authentic, story",
+      "description": "Spoken inspirational reel \u2014 talk to camera about a real moment of struggle or breakthrough in your creative journey. Raw, honest, no filter. Authentically connects with audience.",
+      "created_date": "2026-07-28T20:38:15"
+    },
+    {
+      "id": "6a69121b1a63afce2653486c",
+      "title": "Behind the scenes \u2014 studio session",
+      "contentType": "reel",
+      "platform": "instagram",
+      "status": "new",
+      "priority": "high",
+      "tags": "behind-the-scenes, lifestyle",
+      "description": "A day-in-the-life style reel showing behind-the-scenes of your creative process. Authentic, unfiltered, trending audio.",
+      "created_date": "2026-07-28T20:33:31"
+    },
+    {
+      "id": "6a69121b1a63afce2653486d",
+      "title": "Hot take / opinion piece",
+      "contentType": "video",
+      "platform": "tiktok",
+      "status": "new",
+      "priority": "high",
+      "tags": "engagement, trending",
+      "description": "Short clip with a bold statement or hot take related to your niche. Text overlay, trending sound, strong hook in first 2 seconds.",
+      "created_date": "2026-07-28T20:33:31"
+    },
+    {
+      "id": "6a69121b1a63afce2653486e",
+      "title": "Carousel \u2014 5 tips for your audience",
+      "contentType": "carousel",
+      "platform": "instagram",
+      "status": "new",
+      "priority": "medium",
+      "tags": "value, educational, saves",
+      "description": "Multi-slide carousel with tips, resources, or a mini-guide. High save rate format. Clean design, value-packed slides.",
+      "created_date": "2026-07-28T20:33:31"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "properties": {
+    "account": {
+      "type": "string",
+      "description": "Which account this calendar entry is for"
+    },
+    "contentType": {
+      "enum": [
+        "photo",
+        "video",
+        "reel",
+        "story",
+        "carousel",
+        "text",
+        "thread",
+        "livestream"
+      ],
+      "type": "string",
+      "description": "Type of content planned"
+    },
+    "date": {
+      "type": "string",
+      "description": "Scheduled date for the content"
+    },
+    "notes": {
+      "type": "string",
+      "description": "Additional notes or details"
+    },
+    "platform": {
+      "enum": [
+        "instagram",
+        "tiktok",
+        "twitter",
+        "facebook",
+        "youtube",
+        "linkedin",
+        "threads",
+        "all"
+      ],
+      "type": "string",
+      "description": "Which platform this is for"
+    },
+    "status": {
+      "enum": [
+        "planned",
+        "confirmed",
+        "in_progress",
+        "completed",
+        "cancelled"
+      ],
+      "type": "string",
+      "description": "Status of the calendar entry"
+    },
+    "title": {
+      "type": "string",
+      "description": "Title or label for this calendar entry"
+    }
+  },
+  "required": [
+    "title",
+    "date",
+    "status"
+  ],
+  "type": "object",
+  "name": "ContentCalendar"
+}

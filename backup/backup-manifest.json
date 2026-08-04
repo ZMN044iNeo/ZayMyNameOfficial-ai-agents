@@ -1,0 +1,30 @@
+{
+  "backup_date": "2026-08-03T19:04:00-07:00",
+  "agent_id": "6a6911e85ef448cbb8267ae3",
+  "agent_name": "Morpheus",
+  "entities": {
+    "ContentIdea": {
+      "count": 12,
+      "file": "entities/content-ideas-export.json"
+    },
+    "SocialPost": {
+      "count": 6,
+      "file": "entities/social-posts-export.json"
+    },
+    "ContentCalendar": {
+      "count": 16,
+      "file": "entities/content-calendar-export.json"
+    }
+  },
+  "backend_functions": [
+    "generateAiVideo.ts"
+  ],
+  "skills": [
+    "openai--sora (SKILL.md + sora.py)"
+  ],
+  "config_files": [
+    "IDENTITY.md",
+    "SOUL.md",
+    "mcps/config.json"
+  ]
+}
